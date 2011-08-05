@@ -1,7 +1,7 @@
 CCKit for Cocos2D
 ==================
 
-[CCKit for Cocos2D][1] is a set of classes that brings some of the niceties of UIKit to
+CCKit for Cocos2D is a set of classes that brings some of the niceties of UIKit to
 Cocos2D.
 
 
