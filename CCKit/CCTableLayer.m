@@ -5,8 +5,7 @@
 //  Created by Jerrod Putman on 7/29/11.
 //  Copyright 2011 Tiny Tim Games. All rights reserved.
 //
-//  Portions created by Sangwoo Im under the MIT license.
-//  http://www.opensource.org/licenses/mit-license.php
+//  Portions created by Sangwoo Im.
 //
 //	Permission is hereby granted, free of charge, to any person obtaining a copy
 //	of this software and associated documentation files (the "Software"), to deal
